@@ -1,0 +1,15 @@
+<!--miniprogram/pages/index/chazuo.wxml-->
+<text></text>
+<text class="ziti">涂鸦智能插座\n\n</text>
+<view class="imagesize">
+<image class='size' src="image/chazuo.jpg">\n\n\n\n</image>\n\n\n
+
+</view>
+<text class="ziti1">智能插座已开启\n\n</text>
+<button type='primary'>ON/OFF</button>
+<text class="ziti1">\n</text>
+<button type='primary'>定时关闭\n\n\n</button>
+<text class="ziti1">\n</text>
+<button type='primary'>电量统计\n\n\n</button>
+<text class="ziti1">\n\n</text>
+<text class="ziti1">更多</text>
